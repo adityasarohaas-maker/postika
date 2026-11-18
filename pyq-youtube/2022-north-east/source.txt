@@ -3,6 +3,8 @@ Circle: north-east
 Booklet series: not stated
 Source type: websites (YouTube watch pages are blocked from this cloud machine). Every file below was publicly linked.
 
+[figure-questions] one PNG per figure question, cropped from the VV retyped paper (q<number>.png, VV numbering)
+  59, 65, 66, 67, 68, 70, 76, 79, 81, 82, 83, 84, 86, 87, 88  (question numbers as printed in the VV retyped paper; the booklet series may number them differently, so check them against the scan)
 [question-paper] question paper (scan)
   North East LGO 2022.pdf
       file: https://drive.google.com/drive/folders/1pMBTy1wd1dI-vStOgPiMcA5MfOIfLQOK

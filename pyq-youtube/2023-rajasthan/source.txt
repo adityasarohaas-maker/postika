@@ -10,6 +10,8 @@ Source type: websites (YouTube watch pages are blocked from this cloud machine).
   setB-page19_Q73-75.png
   setB-page20_Q75-79.png
   (150 dpi grayscale renders; name = PDF page + question numbers. Pen ticks are the candidate's marks, not the key.)
+[figure-questions] one PNG per figure question, cropped from the VV retyped paper (q<number>.png, VV numbering)
+  91, 92, 93, 95, 97, 99, 100  (question numbers as printed in the VV retyped paper; the booklet series may number them differently, so check them against the scan)
 [question-paper] question paper (scan)
   Rajasthan.pdf
       file: https://drive.google.com/file/d/1GF6r7sAQrgUaH9rQENybx6CAI1QwX2Dq/view

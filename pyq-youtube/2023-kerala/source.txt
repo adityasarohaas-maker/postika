@@ -12,6 +12,8 @@ Source type: websites (YouTube watch pages are blocked from this cloud machine).
   page22_Q98-99.png
   page23_Q100.png
   (150 dpi grayscale renders; name = PDF page + question numbers. Pen ticks are the candidate's marks, not the key.)
+[figure-questions] one PNG per figure question, cropped from the VV retyped paper (q<number>.png, VV numbering)
+  81, 82, 84, 85, 86, 87, 88, 89, 91, 92, 93, 94, 96, 97, 99, 100  (question numbers as printed in the VV retyped paper; the booklet series may number them differently, so check them against the scan)
 [question-paper] question paper (scan)
   Kerala.pdf
       file: https://drive.google.com/file/d/1UR8QjAnno_2cddCi_okrwmAk_5j3vlXn/view

@@ -12,6 +12,8 @@ Source type: websites (YouTube watch pages are blocked from this cloud machine).
   page09_Q78-89.png
   page10_Q90-100.png
   (150 dpi grayscale renders; name = PDF page + question numbers. Pen ticks are the candidate's marks, not the key.)
+[figure-questions] one PNG per figure question, cropped from the VV retyped paper (q<number>.png, VV numbering)
+  95, 97, 98, 99, 100  (question numbers as printed in the VV retyped paper; the booklet series may number them differently, so check them against the scan)
 [question-paper] question paper (scan)
   Tela.pdf
       file: https://drive.google.com/file/d/19acwDxPzhZIfh4fLbiocNMKJpRsItVNq/view

@@ -3,6 +3,8 @@ Circle: haryana
 Booklet series: not stated
 Source type: websites (YouTube watch pages are blocked from this cloud machine). Every file below was publicly linked.
 
+[figure-questions] one PNG per figure question, cropped from the VV retyped paper (q<number>.png, VV numbering)
+  87, 88, 89, 90, 91, 93, 94, 95, 97, 98, 99, 100  (question numbers as printed in the VV retyped paper; the booklet series may number them differently, so check them against the scan)
 [question-paper-vv-retyped] question paper, retyped by VV Academy (text + figures as images)
   2023-LGO-PAPER-HARYANA-CIRCLE.pdf
       file: https://vvacademy.com/wp-content/uploads/2023-LGO-PAPER-HARYANA-CIRCLE.pdf

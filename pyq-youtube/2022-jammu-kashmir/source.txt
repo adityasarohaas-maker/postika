@@ -3,6 +3,8 @@ Circle: jammu-kashmir
 Booklet series: not stated
 Source type: websites (YouTube watch pages are blocked from this cloud machine). Every file below was publicly linked.
 
+[figure-questions] one PNG per figure question, cropped from the VV retyped paper (q<number>.png, VV numbering)
+  83, 84, 85, 86, 88, 89, 90, 92, 93, 95, 97, 98, 99  (question numbers as printed in the VV retyped paper; the booklet series may number them differently, so check them against the scan)
 [question-paper-vv-retyped] question paper, retyped by VV Academy (text + figures as images)
   2022-LGO-PAPER-JAMMU-AND-KASHMIR-CIRCLE.pdf
       file: https://vvacademy.com/wp-content/uploads/2022-LGO-PAPER-JAMMU-AND-KASHMIR-CIRCLE.pdf

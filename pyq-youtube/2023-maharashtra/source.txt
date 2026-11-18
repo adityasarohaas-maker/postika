@@ -7,6 +7,8 @@ Source type: websites (YouTube watch pages are blocked from this cloud machine).
   MH_PA_2023.pdf
       file: https://drive.google.com/file/d/1oBAksobIIdtH40zAyD4ssSlx4uNj8jb_/view
       listed on: https://www.postalstudy.in/2023/03/gds-to-pa-sa-exam-2023-question-papers.html
+[figure-questions] one PNG per figure question, cropped from the VV retyped paper (q<number>.png, VV numbering)
+    (question numbers as printed in the VV retyped paper; the booklet series may number them differently, so check them against the scan)
 [question-paper] question paper (scan)
   mh.pdf
       file: https://drive.google.com/file/d/1DpibqnFZ1W3JtFQs1F4yUeG5t4K00YpQ/view

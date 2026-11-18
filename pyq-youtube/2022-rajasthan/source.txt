@@ -3,6 +3,8 @@ Circle: rajasthan
 Booklet series: not stated
 Source type: websites (YouTube watch pages are blocked from this cloud machine). Every file below was publicly linked.
 
+[figure-questions] one PNG per figure question, cropped from the VV retyped paper (q<number>.png, VV numbering)
+  57, 58, 59, 61, 62, 64, 65, 66  (question numbers as printed in the VV retyped paper; the booklet series may number them differently, so check them against the scan)
 [question-paper] question paper (scan)
   Adobe Scan Aug 07_ 2022 (1).pdf
       file: https://drive.google.com/drive/folders/1kSW5zCCITD4ztWUH-h9ykLw_ssplNLme

@@ -3,6 +3,8 @@ Circle: uttar-pradesh
 Booklet series: not stated
 Source type: websites (YouTube watch pages are blocked from this cloud machine). Every file below was publicly linked.
 
+[figure-questions] one PNG per figure question, cropped from the VV retyped paper (q<number>.png, VV numbering)
+  67, 71, 72, 73, 74  (question numbers as printed in the VV retyped paper; the booklet series may number them differently, so check them against the scan)
 [question-paper-vv-retyped] question paper, retyped by VV Academy (text + figures as images)
   2022-LGO-PAPER-UTTARA-PRADESH-CIRCLE.pdf
       file: https://vvacademy.com/wp-content/uploads/2022-LGO-PAPER-UTTARA-PRADESH-CIRCLE.pdf

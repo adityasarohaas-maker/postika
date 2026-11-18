@@ -12,6 +12,8 @@ Source type: websites (YouTube watch pages are blocked from this cloud machine).
   page25_Q95-98.png
   page26_Q99-100.png
   (150 dpi grayscale renders; name = PDF page + question numbers. Pen ticks are the candidate's marks, not the key.)
+[figure-questions] one PNG per figure question, cropped from the VV retyped paper (q<number>.png, VV numbering)
+  86, 91, 92, 93, 95, 96, 97, 98, 99, 100  (question numbers as printed in the VV retyped paper; the booklet series may number them differently, so check them against the scan)
 [question-paper] question paper (scan)
   bihar.pdf
       file: https://drive.google.com/file/d/13QqV7hQLkglASNWs03DlFBXp0pZLzuMu/view

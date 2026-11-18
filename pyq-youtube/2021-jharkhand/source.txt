@@ -7,6 +7,8 @@ Source type: websites (YouTube watch pages are blocked from this cloud machine).
   jharkhand key.pdf
       file: https://drive.google.com/file/d/1AobteATGmrwp__jP92djc3JNEF94HWa9/view
       listed on: https://www.postalstudy.in/2021/10/gds-to-pa-sa-exam-2021-question-papers_24.html
+[figure-questions] one PNG per figure question, cropped from the VV retyped paper (q<number>.png, VV numbering)
+  81, 83, 84, 85, 86, 87, 88, 90, 91, 92, 93, 94  (question numbers as printed in the VV retyped paper; the booklet series may number them differently, so check them against the scan)
 [question-paper] question paper (scan)
   Jharkhand circle GDS to PA.pdf
       file: https://drive.google.com/file/d/1Z18P9E2bvAf6kE850GW7fLT85TQypbYU/view

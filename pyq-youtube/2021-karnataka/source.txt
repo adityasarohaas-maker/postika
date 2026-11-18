@@ -3,6 +3,8 @@ Circle: karnataka
 Booklet series: C series
 Source type: websites (YouTube watch pages are blocked from this cloud machine). Every file below was publicly linked.
 
+[figure-questions] one PNG per figure question, cropped from the VV retyped paper (q<number>.png, VV numbering)
+  91, 93, 94, 95, 96, 97, 99, 100  (question numbers as printed in the VV retyped paper; the booklet series may number them differently, so check them against the scan)
 [question-paper] question paper (scan)
   5_6316529675476665487 (1).pdf
       file: https://drive.google.com/file/d/137m5RtGnbPfBYJokf1CA2exLeVcMzli6/view

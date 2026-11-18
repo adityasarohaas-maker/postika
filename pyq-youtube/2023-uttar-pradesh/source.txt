@@ -12,6 +12,8 @@ Source type: websites (YouTube watch pages are blocked from this cloud machine).
   page06_Q43-49.png
   page07_Q50-56.png
   (150 dpi grayscale renders; name = PDF page + question numbers. Pen ticks are the candidate's marks, not the key.)
+[figure-questions] one PNG per figure question, cropped from the VV retyped paper (q<number>.png, VV numbering)
+  94, 95, 96, 97, 98, 100  (question numbers as printed in the VV retyped paper; the booklet series may number them differently, so check them against the scan)
 [question-paper] question paper (scan)
   UP.pdf
       file: https://drive.google.com/file/d/1JptH8pLArs0JxIKcTipjOjr4hePCyWUD/view
@@ -21,4 +23,4 @@ Source type: websites (YouTube watch pages are blocked from this cloud machine).
       file: https://vvacademy.com/wp-content/uploads/2023-LGO-PAPER-UTTARPRADESH-CIRCLE.pdf
       listed on: https://vvacademy.com/all-postal-circles-ldce-exam-gds-postman-mts-to-pa-sa-exam-lgo-2023-question-papers-and-answer-keys-available-for-gds-to-pa-sa-exam-2023
 
-Note: Reasoning/figure questions are Q36-56 in this paper.
+Note: VV file also holds the West Bengal 2023 paper (pages 11-18); it is split into 2023-west-bengal. Reasoning/figure questions are Q36-56 in the scanned paper.

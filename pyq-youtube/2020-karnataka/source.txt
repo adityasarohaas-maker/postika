@@ -7,6 +7,8 @@ Source type: websites (YouTube watch pages are blocked from this cloud machine).
   PA SA exam answer key Karnataka Circle.pdf
       file: https://drive.google.com/file/d/1vS-Yz7PKrgBTraq9QvVT_aoooQ8QlpoY/view
       listed on: https://www.postalstudy.in/2021/10/gds-to-pa-sa-exam-question-papers-and.html
+[figure-questions] one PNG per figure question, cropped from the VV retyped paper (q<number>.png, VV numbering)
+  83, 94, 100  (question numbers as printed in the VV retyped paper; the booklet series may number them differently, so check them against the scan)
 [question-paper-vv-retyped] question paper, retyped by VV Academy (text + figures as images)
   2020-LGO-PAPER-KARNATAKA-CIRCLE.pdf
       file: https://vvacademy.com/wp-content/uploads/2020-LGO-PAPER-KARNATAKA-CIRCLE.pdf

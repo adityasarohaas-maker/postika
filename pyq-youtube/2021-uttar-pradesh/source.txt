@@ -7,6 +7,8 @@ Source type: websites (YouTube watch pages are blocked from this cloud machine).
   up official.pdf
       file: https://drive.google.com/file/d/19SPQWGA_mNJgO5grF4zoJf-7W4cHGJ9T/view
       listed on: https://www.postalstudy.in/2021/10/gds-to-pa-sa-exam-2021-question-papers_24.html
+[figure-questions] one PNG per figure question, cropped from the VV retyped paper (q<number>.png, VV numbering)
+  81, 84, 85, 87, 88, 93, 95, 96, 97, 100  (question numbers as printed in the VV retyped paper; the booklet series may number them differently, so check them against the scan)
 [question-paper-vv-retyped] question paper, retyped by VV Academy (text + figures as images)
   2021-LGO-PAPER-UTTARPRADESH-CIRCLE.pdf
       file: https://vvacademy.com/wp-content/uploads/2021-LGO-PAPER-UTTARPRADESH-CIRCLE.pdf

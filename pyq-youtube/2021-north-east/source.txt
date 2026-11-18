@@ -7,6 +7,8 @@ Source type: websites (YouTube watch pages are blocked from this cloud machine).
   ne official.pdf
       file: https://drive.google.com/file/d/18TQfLEFMTNGqOI6w7nhMeUxECGGH7bzp/view
       listed on: https://www.postalstudy.in/2021/10/gds-to-pa-sa-exam-2021-question-papers_24.html
+[figure-questions] one PNG per figure question, cropped from the VV retyped paper (q<number>.png, VV numbering)
+  81, 83, 84, 85, 86, 88, 89, 90, 92, 93, 95, 96, 97, 99, 100  (question numbers as printed in the VV retyped paper; the booklet series may number them differently, so check them against the scan)
 [question-paper-vv-retyped] question paper, retyped by VV Academy (text + figures as images)
   2021-LGO-PAPER-NORTH-EASTERN-CIRCLE.pdf
       file: https://vvacademy.com/wp-content/uploads/2021-LGO-PAPER-NORTH-EASTERN-CIRCLE.pdf

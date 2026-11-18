@@ -3,6 +3,8 @@ Circle: gujarat
 Booklet series: not stated
 Source type: websites (YouTube watch pages are blocked from this cloud machine). Every file below was publicly linked.
 
+[figure-questions] one PNG per figure question, cropped from the VV retyped paper (q<number>.png, VV numbering)
+  91, 92, 94, 95  (question numbers as printed in the VV retyped paper; the booklet series may number them differently, so check them against the scan)
 [question-paper] question paper (scan)
   PA-SA Gujarat circle 08-07-2022 14.12.pdf
       file: https://drive.google.com/drive/folders/1cnJ0kzgGZUFFeYa5CQoYrFI1uxgB9pI8
