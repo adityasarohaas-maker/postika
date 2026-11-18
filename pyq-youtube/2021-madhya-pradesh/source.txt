@@ -1,0 +1,15 @@
+Year: 2021 (exam held 24.10.2021), Paper I
+Circle: madhya-pradesh
+Booklet series: not stated
+Source type: websites (YouTube watch pages are blocked from this cloud machine). Every file below was publicly linked.
+
+[question-paper] question paper (scan)
+  mp.pdf
+      file: https://drive.google.com/file/d/1a1nt6WCAm4iq5nzIu42ZNkqGyIuKnNNT/view
+      listed on: https://www.postalstudy.in/2021/10/gds-to-pa-sa-exam-2021-question-papers_24.html
+[question-paper-vv-retyped] question paper, retyped by VV Academy (text + figures as images)
+  2021-LGO-PAPER-MADHYAPRADESH-CIRCLE.pdf
+      file: https://vvacademy.com/wp-content/uploads/2021-LGO-PAPER-MADHYAPRADESH-CIRCLE.pdf
+      listed on: https://vvacademy.com/all-postal-circles-ldce-exam-gds-postman-mts-to-pa-sa-exam-lgo-2021-question-papers-and-answer-keys
+
+Note: Official key link returns 403.

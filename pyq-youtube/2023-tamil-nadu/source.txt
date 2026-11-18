@@ -1,0 +1,19 @@
+Year: 2023 (exam held 12.03.2023), Paper I
+Circle: tamil-nadu
+Booklet series: Series D
+Source type: websites (YouTube watch pages are blocked from this cloud machine). Every file below was publicly linked.
+
+[figure-pages] figure-question page images
+  setD-page11_Q74-83.png
+  setD-page12_Q84-89.png
+  setD-page13_Q90-96.png
+  setD-page14_Q97-100.png
+  (150 dpi grayscale renders; name = PDF page + question numbers. Pen ticks are the candidate's marks, not the key.)
+[question-paper] question paper (scan)
+  TN.pdf
+      file: https://drive.google.com/file/d/1s425ZY8xz33JSLtkYz7di0zssSJVSNjc/view
+      listed on: https://www.postalstudy.in/2023/03/gds-to-pa-sa-exam-2023-question-papers.html
+[question-paper-vv-retyped] question paper, retyped by VV Academy (text + figures as images)
+  2023-LGO-PAPER-TAMILNADU-CIRCLE.pdf
+      file: https://vvacademy.com/wp-content/uploads/2023-LGO-PAPER-TAMILNADU-CIRCLE.pdf
+      listed on: https://vvacademy.com/all-postal-circles-ldce-exam-gds-postman-mts-to-pa-sa-exam-lgo-2023-question-papers-and-answer-keys-available-for-gds-to-pa-sa-exam-2023

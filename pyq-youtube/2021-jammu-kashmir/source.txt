@@ -1,0 +1,17 @@
+Year: 2021 (exam held 24.10.2021), Paper I
+Circle: jammu-kashmir
+Booklet series: not stated
+Source type: websites (YouTube watch pages are blocked from this cloud machine). Every file below was publicly linked.
+
+[answer-key-official] OFFICIAL answer key
+  JkOK.pdf
+      file: https://drive.google.com/file/d/1RSs18me-BIof2sgqJaggeCr7gLJq4wO8/view
+      listed on: https://www.postalstudy.in/2021/10/gds-to-pa-sa-exam-2021-question-papers_24.html
+[question-paper] question paper (scan)
+  jk.pdf
+      file: https://drive.google.com/file/d/1-YtKOsuozC0McUUxhIn4OX6AE9qU3xH9/view
+      listed on: https://www.postalstudy.in/2021/10/gds-to-pa-sa-exam-2021-question-papers_24.html
+[question-paper-vv-retyped] question paper, retyped by VV Academy (text + figures as images)
+  2021-LGO-PAPER-J-AND-K-CIRCLE.pdf
+      file: https://vvacademy.com/wp-content/uploads/2021-LGO-PAPER-J-AND-K-CIRCLE.pdf
+      listed on: https://vvacademy.com/all-postal-circles-ldce-exam-gds-postman-mts-to-pa-sa-exam-lgo-2021-question-papers-and-answer-keys

@@ -1,0 +1,20 @@
+Year: 2023 (exam held 12.03.2023), Paper I
+Circle: gujarat
+Booklet series: not stated
+Source type: websites (YouTube watch pages are blocked from this cloud machine). Every file below was publicly linked.
+
+[figure-pages] figure-question page images
+  page30_Q81-83.png
+  page31_Q83-85.png
+  page32_Q85-87.png
+  page33_Q88-90.png
+  page34_Q91-92.png
+  page35_Q93-94.png
+  page36_Q95-96.png
+  page37_Q97-98.png
+  page38_Q99-100.png
+  (150 dpi grayscale renders; name = PDF page + question numbers. Pen ticks are the candidate's marks, not the key.)
+[question-paper] question paper (scan)
+  guj.pdf
+      file: https://drive.google.com/file/d/1FIHt1VLd-zxsomL15O6KmvklZO4H8b0E/view
+      listed on: https://www.postalstudy.in/2023/03/gds-to-pa-sa-exam-2023-question-papers.html

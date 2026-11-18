@@ -1,0 +1,51 @@
+Year: 2023 (exam held 12.03.2023), Paper I
+Circle: karnataka
+Booklet series: D series
+Source type: websites (YouTube watch pages are blocked from this cloud machine). Every file below was publicly linked.
+
+[figure-pages] figure-question page images
+  setD-page04_Q13-14.png
+  setD-page05_Q15-20.png
+  (150 dpi grayscale renders; name = PDF page + question numbers. Pen ticks are the candidate's marks, not the key.)
+[question-paper] question paper (scan)
+  1.jfif
+      file: https://drive.google.com/drive/folders/1ARu3_IsAVbZ1eM6_sLGFAhZygOrnkDh8
+      listed on: https://www.postalstudy.in/2023/03/gds-to-pa-sa-exam-2023-question-papers.html
+  10.jfif
+      file: https://drive.google.com/drive/folders/1ARu3_IsAVbZ1eM6_sLGFAhZygOrnkDh8
+      listed on: https://www.postalstudy.in/2023/03/gds-to-pa-sa-exam-2023-question-papers.html
+  11.jfif
+      file: https://drive.google.com/drive/folders/1ARu3_IsAVbZ1eM6_sLGFAhZygOrnkDh8
+      listed on: https://www.postalstudy.in/2023/03/gds-to-pa-sa-exam-2023-question-papers.html
+  12.jfif
+      file: https://drive.google.com/drive/folders/1ARu3_IsAVbZ1eM6_sLGFAhZygOrnkDh8
+      listed on: https://www.postalstudy.in/2023/03/gds-to-pa-sa-exam-2023-question-papers.html
+  2.jfif
+      file: https://drive.google.com/drive/folders/1ARu3_IsAVbZ1eM6_sLGFAhZygOrnkDh8
+      listed on: https://www.postalstudy.in/2023/03/gds-to-pa-sa-exam-2023-question-papers.html
+  3.jfif
+      file: https://drive.google.com/drive/folders/1ARu3_IsAVbZ1eM6_sLGFAhZygOrnkDh8
+      listed on: https://www.postalstudy.in/2023/03/gds-to-pa-sa-exam-2023-question-papers.html
+  4.jfif
+      file: https://drive.google.com/drive/folders/1ARu3_IsAVbZ1eM6_sLGFAhZygOrnkDh8
+      listed on: https://www.postalstudy.in/2023/03/gds-to-pa-sa-exam-2023-question-papers.html
+  5.jfif
+      file: https://drive.google.com/drive/folders/1ARu3_IsAVbZ1eM6_sLGFAhZygOrnkDh8
+      listed on: https://www.postalstudy.in/2023/03/gds-to-pa-sa-exam-2023-question-papers.html
+  6.jfif
+      file: https://drive.google.com/drive/folders/1ARu3_IsAVbZ1eM6_sLGFAhZygOrnkDh8
+      listed on: https://www.postalstudy.in/2023/03/gds-to-pa-sa-exam-2023-question-papers.html
+  7.jfif
+      file: https://drive.google.com/drive/folders/1ARu3_IsAVbZ1eM6_sLGFAhZygOrnkDh8
+      listed on: https://www.postalstudy.in/2023/03/gds-to-pa-sa-exam-2023-question-papers.html
+  8.jfif
+      file: https://drive.google.com/drive/folders/1ARu3_IsAVbZ1eM6_sLGFAhZygOrnkDh8
+      listed on: https://www.postalstudy.in/2023/03/gds-to-pa-sa-exam-2023-question-papers.html
+  9.jfif
+      file: https://drive.google.com/drive/folders/1ARu3_IsAVbZ1eM6_sLGFAhZygOrnkDh8
+      listed on: https://www.postalstudy.in/2023/03/gds-to-pa-sa-exam-2023-question-papers.html
+  PA-SA Karnataka -2023 - D Series.pdf
+      file: https://drive.google.com/drive/folders/1ARu3_IsAVbZ1eM6_sLGFAhZygOrnkDh8
+      listed on: https://www.postalstudy.in/2023/03/gds-to-pa-sa-exam-2023-question-papers.html
+
+Note: D-series order: figure questions are Q13-15.

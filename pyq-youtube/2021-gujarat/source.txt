@@ -1,0 +1,17 @@
+Year: 2021 (exam held 24.10.2021), Paper I
+Circle: gujarat
+Booklet series: D series (file name)
+Source type: websites (YouTube watch pages are blocked from this cloud machine). Every file below was publicly linked.
+
+[answer-key-official] OFFICIAL answer key
+  Gujarat official.pdf
+      file: https://drive.google.com/file/d/19OwAwy2QiIzPfoIS6rqWCuBNDjl3_Diw/view
+      listed on: https://www.postalstudy.in/2021/10/gds-to-pa-sa-exam-2021-question-papers_24.html
+[question-paper] question paper (scan)
+  Gujarat circle paper D series 24.10.21.pdf
+      file: https://drive.google.com/file/d/12lT52jrAJnhMitShC2jiVsPt-4giupsp/view
+      listed on: https://www.postalstudy.in/2021/10/gds-to-pa-sa-exam-2021-question-papers_24.html
+[question-paper-vv-retyped] question paper, retyped by VV Academy (text + figures as images)
+  2021-LGO-PAPER-GUJARATH-CIRCLE.pdf
+      file: https://vvacademy.com/wp-content/uploads/2021-LGO-PAPER-GUJARATH-CIRCLE.pdf
+      listed on: https://vvacademy.com/all-postal-circles-ldce-exam-gds-postman-mts-to-pa-sa-exam-lgo-2021-question-papers-and-answer-keys

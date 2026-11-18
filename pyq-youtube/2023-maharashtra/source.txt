@@ -1,0 +1,19 @@
+Year: 2023 (exam held 12.03.2023), Paper I
+Circle: maharashtra
+Booklet series: Series D
+Source type: websites (YouTube watch pages are blocked from this cloud machine). Every file below was publicly linked.
+
+[answer-key-unofficial] unofficial answer key
+  MH_PA_2023.pdf
+      file: https://drive.google.com/file/d/1oBAksobIIdtH40zAyD4ssSlx4uNj8jb_/view
+      listed on: https://www.postalstudy.in/2023/03/gds-to-pa-sa-exam-2023-question-papers.html
+[question-paper] question paper (scan)
+  mh.pdf
+      file: https://drive.google.com/file/d/1DpibqnFZ1W3JtFQs1F4yUeG5t4K00YpQ/view
+      listed on: https://www.postalstudy.in/2023/03/gds-to-pa-sa-exam-2023-question-papers.html
+[question-paper-vv-retyped] question paper, retyped by VV Academy (text + figures as images)
+  2023-LGO-PAPER-MAHARASHTRA-CIRCLE.pdf
+      file: https://vvacademy.com/wp-content/uploads/2023-LGO-PAPER-MAHARASHTRA-CIRCLE.pdf
+      listed on: https://vvacademy.com/all-postal-circles-ldce-exam-gds-postman-mts-to-pa-sa-exam-lgo-2023-question-papers-and-answer-keys-available-for-gds-to-pa-sa-exam-2023
+
+Note: Paper I has no figure questions.

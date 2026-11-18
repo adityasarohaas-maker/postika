@@ -1,0 +1,17 @@
+Year: 2021 (exam held 24.10.2021), Paper I
+Circle: jharkhand
+Booklet series: not stated
+Source type: websites (YouTube watch pages are blocked from this cloud machine). Every file below was publicly linked.
+
+[answer-key] answer key (source does not say if official)
+  jharkhand key.pdf
+      file: https://drive.google.com/file/d/1AobteATGmrwp__jP92djc3JNEF94HWa9/view
+      listed on: https://www.postalstudy.in/2021/10/gds-to-pa-sa-exam-2021-question-papers_24.html
+[question-paper] question paper (scan)
+  Jharkhand circle GDS to PA.pdf
+      file: https://drive.google.com/file/d/1Z18P9E2bvAf6kE850GW7fLT85TQypbYU/view
+      listed on: https://www.postalstudy.in/2021/10/gds-to-pa-sa-exam-2021-question-papers_24.html
+[question-paper-vv-retyped] question paper, retyped by VV Academy (text + figures as images)
+  2021-LGO-PAPER-JHARKHAND-CIRCLE.pdf
+      file: https://vvacademy.com/wp-content/uploads/2021-LGO-PAPER-JHARKHAND-CIRCLE.pdf
+      listed on: https://vvacademy.com/all-postal-circles-ldce-exam-gds-postman-mts-to-pa-sa-exam-lgo-2021-question-papers-and-answer-keys

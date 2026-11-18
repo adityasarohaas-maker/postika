@@ -1,0 +1,24 @@
+Year: 2023 (exam held 12.03.2023), Paper I
+Circle: odisha
+Booklet series: Set A
+Source type: websites (YouTube watch pages are blocked from this cloud machine). Every file below was publicly linked.
+
+[answer-key-official] OFFICIAL answer key
+  odisha.pdf
+      file: https://drive.google.com/file/d/1-RX77nBmL4WCe4nKp7ixSx1LPQQqGxG6/view
+      listed on: https://www.postalstudy.in/2023/03/gds-to-pa-sa-exam-2023-question-papers.html
+[figure-pages] figure-question page images
+  setA-page14_Q77-82.png
+  setA-page15_Q83-86.png
+  setA-page16_Q87-90.png
+  setA-page17_Q91-96.png
+  setA-page18_Q97-100.png
+  (150 dpi grayscale renders; name = PDF page + question numbers. Pen ticks are the candidate's marks, not the key.)
+[question-paper] question paper (scan)
+  Odisha.pdf
+      file: https://drive.google.com/file/d/17boOd956r3pP0phg7Ma6KCKFkijc0dF7/view
+      listed on: https://www.postalstudy.in/2023/03/gds-to-pa-sa-exam-2023-question-papers.html
+[question-paper-vv-retyped] question paper, retyped by VV Academy (text + figures as images)
+  2023-LGO-PAPER-ODISHA-CIRCLE.pdf
+      file: https://vvacademy.com/wp-content/uploads/2023-LGO-PAPER-ODISHA-CIRCLE.pdf
+      listed on: https://vvacademy.com/all-postal-circles-ldce-exam-gds-postman-mts-to-pa-sa-exam-lgo-2023-question-papers-and-answer-keys-available-for-gds-to-pa-sa-exam-2023
